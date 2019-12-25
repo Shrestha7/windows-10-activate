@@ -4,4 +4,4 @@
 
 -after the restart check in cmd using this command
 slmgr -xpr 
--and press enter.
+and press enter.
